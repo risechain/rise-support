@@ -49,3 +49,12 @@ We aim to keep this space constructive and welcoming. When interacting with othe
 -   [X](https://x.com/rise_chain)
   
 We appreciate your contributions and support. Together, we will RICE UP. 
+
+## Upgrades Changelog
+
+### Upgrade #1: Bump `rise`, `rise-optimism`, and `op-reth`
+
+- **Date:** 2025-03-05
+- **Description:**
+  - Bump `rise`, `rise-optimism`, and `op-reth` to new versions for better performance.
+  - Running the latest versions may help us fix or easier debug the recent receipts root issue on public testnet.
