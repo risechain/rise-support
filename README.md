@@ -52,6 +52,14 @@ We appreciate your contributions and support. Together, we will RICE UP.
 
 ## Upgrades Changelog
 
+### Upgrade #2: Public Testnet Explorer Endpoint Refactor
+
+- **Date:** 2025-03-06
+- **Description:**
+    - Renamed the `public testnet explorer` endpoint to follow a clearer naming convention.
+    - The new public testnet explorer endpoint is:  
+    [https://explorer.testnet.riselabs.xyz/](https://explorer.testnet.riselabs.xyz/)
+
 ### Upgrade #1: Bump `rise`, `rise-optimism`, and `op-reth`
 
 - **Date:** 2025-03-05
