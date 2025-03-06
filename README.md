@@ -49,3 +49,7 @@ We aim to keep this space constructive and welcoming. When interacting with othe
 -   [X](https://x.com/rise_chain)
   
 We appreciate your contributions and support. Together, we will RICE UP. 
+
+## Upgrades Changelog
+
+To view the public testnet changelog, click [here](./changelogs/testnet-changelog.md)
