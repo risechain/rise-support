@@ -12,17 +12,17 @@ Welcome to the official tracker for issues and feature requests related to the *
 
 1.  **Check Existing Issues:**
     Before creating a new issue, please search through existing issues to see if your bug or request has already been reported.
-    
+
 3.  **Open an Issue:**
-    
+
     -   For **bug reports**, create a new issue using the Bug Report template.
     -   For **feature requests**, use the Feature Request template.
-    
+
     Please be as detailed as possible and, when applicable, include steps to reproduce the problem or screenshots.
-    
-4.  **Follow Up:**  
+
+4.  **Follow Up:**
     After submitting your issue, our team and the community will review it. We may ask for additional information or clarification, so be sure to watch for updates.
-    
+
 
 ## Issue Templates
 
@@ -47,9 +47,9 @@ We aim to keep this space constructive and welcoming. When interacting with othe
 -   [RISE Website](https://riselabs.xyz/)
 -   [Discord](https://discord.gg/risechain)
 -   [X](https://x.com/rise_chain)
-  
-We appreciate your contributions and support. Together, we will RICE UP. 
 
-## Upgrades Changelog
+We appreciate your contributions and support. Together, we will RICE UP.
 
-To view the public testnet changelog, click [here](./changelogs/testnet-changelog.md)
+## RISE Network Changelogs
+
+- [Public Testnet Changelog](./changelogs/testnet.md).
