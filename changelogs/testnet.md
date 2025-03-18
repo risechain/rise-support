@@ -1,5 +1,15 @@
 # RISE Public Testnet Changelog
 
+### Upgrade #4: Bump rise-sequencer, rise-optimism, and Deploy RISE Replicas
+
+- **Date:** 2025-03-18
+- **Description:**
+  - Bump rise-sequencer to fix a race condition that led to wrong execution; and improve performance.
+  - Replace op-reth with RISE's own replica rise-node for much better latency.
+  - Rebase rise-optimism on op-node v1.2.0 for Pectra stability and improve performance.
+
+---
+
 ### Upgrade #3: Update Public Testnet Explorer URL
 
 - **Date:** 2025-03-06
