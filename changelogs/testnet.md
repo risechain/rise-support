@@ -1,5 +1,18 @@
 # RISE Public Testnet Changelog
 
+### Upgrade #5: Enter Shreds!
+
+- **Date:** 2025-04-04
+- **Description:**
+  - Fix a race condition when there are mempool transactions during an L1 reorg
+  - Shreds with `rise_subscribe`!
+  - Much faster `eth_blockNumber`, `eth_getTransactionByHash` and `eth_getTransactionReceipt` with shreds
+  - Improve overall performance and block building stability
+- **Action Items:**
+  - Bump `rise-sequencer`, `rise-node`, and `rise-optimism` services with new images.
+
+---
+
 ### Upgrade #4: Bump `rise-sequencer`, `rise-optimism`, and Deploy RISE Replicas
 
 - **Date:** 2025-03-18
