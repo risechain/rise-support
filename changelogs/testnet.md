@@ -1,5 +1,18 @@
 # RISE Public Testnet Changelog
 
+### Upgrade #6: More Shred-Enabled RPCs and Stability
+
+- **Date:** 2025-04-07
+- **Description:**
+  - Cheaper gas price at `eth_gasPrice` and `eth_maxPriorityFeePerGas`
+  - Much faster `eth_getBalance`, `eth_getCode` and `eth_getStorageAt` with shreds
+  - Faster pending `eth_estimateGas` and `eth_call`
+  - More stability improvements for both EL & CL
+- **Action Items:**
+  - Bump `rise-sequencer`, `rise-node`, and `rise-optimism` services with new images
+
+---
+
 ### Upgrade #5: Enter Shreds!
 
 - **Date:** 2025-04-04
