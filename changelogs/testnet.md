@@ -1,5 +1,17 @@
 # RISE Public Testnet Changelog
 
+### Upgrade #7: More RPC Updates
+
+- **Date:** 2025-04-10
+- **Description:**
+  - Faster pending `eth_callMany`
+  - Improve RPC compatibility with popular tools like Foundry
+  - Introduce `RISE_SEQUENCER_WS` for full nodes to subscribe to shreds via `rise_subscribe` and serve fast pending data
+- **Action Items:**
+  - Bump `rise-sequencer` and `rise-node` services with new images
+
+---
+
 ### Upgrade #6: More Shred-Enabled RPCs and Stability
 
 - **Date:** 2025-04-07
