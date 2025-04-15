@@ -1,5 +1,15 @@
 # RISE Public Testnet Changelog
 
+### Upgrade #8: Fix Pending Block Hash
+
+- **Date:** 2025-04-14
+- **Description:**
+  - Fix invalid state transition when reading the pending block hash during EVM pre-execution
+- **Action Items:**
+  - Bump `rise-sequencer` and `rise-node` services with new images
+
+---
+
 ### Upgrade #7: More RPC Updates
 
 - **Date:** 2025-04-10
