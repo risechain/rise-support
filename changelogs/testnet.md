@@ -1,5 +1,17 @@
 # RISE Public Testnet Changelog
 
+### Upgrade #9: Ship `eth_sendRawTransactionSync`
+
+- **Date:** 2025-04-28
+- **Description:**
+  - Ship `eth_sendRawTransactionSync` for much improved latency
+  - Merge `--rollup.sequencer-http` and `RISE_SEQUENCER_WS` into `--rollup.sequencer-ws`
+  - Reduce gas limit from `0xffffffffffffffff` to `0x7fffffffffffffff`
+- **Action Items:**
+  - Bump `rise-sequencer` and `rise-node` services with new images
+
+---
+
 ### Upgrade #8: Fix Pending Block Hash
 
 - **Date:** 2025-04-14
