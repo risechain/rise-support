@@ -1,5 +1,19 @@
 # RISE Public Testnet Changelog
 
+### Upgrade #10: Several Quality-of-Life Improvements
+
+- **Date:** 2025-05-20
+- **Description:**
+  - Subscribe to shred-enabled logs with `rise_subscribe`
+  - Order transactions by gas price; avoid `re-executing` failed transactions in the same block
+  - Increase contract size limit to 256 KB
+  - Reduce nonce gaps and pending transactions
+  - More RPC and mempool consistency
+- **Action Items:**
+  - Bump `rise-sequencer`, `rise-node`, and `rise-optimism` services with new images
+
+---
+
 ### Upgrade #9: Ship `eth_sendRawTransactionSync`
 
 - **Date:** 2025-04-28
