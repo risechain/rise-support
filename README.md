@@ -43,7 +43,8 @@ We aim to keep this space constructive and welcoming. When interacting with othe
 
 ## Additional Resources
 
--   [RISE Docs](https://www.risechain.com/)
+-   [RISE Docs](https://docs.risechain.com/)
+-   [Testnet Portal](https://portal.risechain.com/)
 -   [RISE Website](https://www.risechain.com/)
 -   [Discord](https://discord.gg/risechain)
 -   [X](https://x.com/rise_chain)
