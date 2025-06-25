@@ -1,5 +1,17 @@
 # RISE Public Testnet Changelog
 
+### Upgrade #11: Key Rollup Improvements
+
+- **Date:** 2025-06-23
+- **Description:**
+  - Activate OP Holocene
+  - Switch DA to snap batching and optimize decoding speed
+  - Add proper versioned identities to EL nodes
+- **Action Items:**
+  - Bump `rise-sequencer`, `rise-node`, and `rise-optimism` services with new images
+
+---
+
 ### Upgrade #10: Several Quality-of-Life Improvements
 
 - **Date:** 2025-05-20
